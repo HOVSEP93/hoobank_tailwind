@@ -2,6 +2,8 @@
 
 ## Documentation
 
+DEMO: https://hoobank-tailwind.vercel.app/
+
 [Documentation](https://tailwindcss.com/docs/installation)
 
 ## Features
